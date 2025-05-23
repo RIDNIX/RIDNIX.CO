@@ -30,18 +30,18 @@
     <div class="products">
       <div class="product-card">
         <img src="shirt1.jpg" alt="Luffy" />
-        <h3>Dope</h3>
+        <h3>Streetwear</h3>
         <p>RM55</p>
       </div>
       <div class="product-card">
         <img src="shirt2.jpg" alt="Soo Jin Woo" />
-        <h3>Dope</h3>
+        <h3>Streetwear</h3>
         <p>RM55</p>
       </div>
     <div class="products">
       <div class="product-card">
         <img src="shirt3.jpg" alt="Zoro" />
-        <h3>Dope</h3>
+        <h3>Streetwear</h3>
         <p>RM55</p>
       </div>
       <!-- Add more products here -->
