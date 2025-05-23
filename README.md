@@ -1,5 +1,3 @@
-# RIDNIX.CO
-Streetwear Shirt Website
 <!DOCTYPE html>
 <html lang="en">
 <head>
