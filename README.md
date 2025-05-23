@@ -6,6 +6,7 @@
   <title>RIDNIX.CO - Streetwear</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+  <link rel="stylesheet" href="style.css">
 <body>
   <header>
     <h1>RIDNIX.CO</h1>
